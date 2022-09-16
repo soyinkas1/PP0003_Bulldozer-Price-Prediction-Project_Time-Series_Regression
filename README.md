@@ -1,0 +1,2 @@
+# PP0003_Bulldozer-Price-Prediction-Project_Time-Series_Regression
+This project is a regression project which predicts the price of buldozers based on historic prices of buldozers and the bulldozer's specifications. The first version of the notebook is the work along file from the ZTM ML Data Science bootcamp. Subsequent versions of the project will have the objectives of improving the evaluation metrics of the model by either tuning the hyperparameters and/or trying other models as well.
